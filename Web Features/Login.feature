@@ -1,10 +1,11 @@
-@Login_Using_Valid_Credentials
-  Feature: Verify user is able to login using valid credentials
+@Login_Using_Valid_UserName
+  Feature: Verify user is able to login using valid username
 
-@LoginClassWeb
-Scenario: The User lands on the Dashboard and login
-Given Launch the Application
-  And User clicks on login
-  And user enter valid username
-  And User click on login button
-
+    @LoginClassWeb
+    Scenario Outline:The user should be able to login using valid username
+      Given User clicks on login button
+      And User enter valid name {String} and clicks on login
+      And User lands on dashboard
+      Examples:
+        |Username|
+        |BTPhoton1|

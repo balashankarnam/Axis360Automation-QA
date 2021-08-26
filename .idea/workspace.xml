@@ -5,20 +5,81 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db725b03-526f-497e-aeb7-b9065e9f361d" name="Default Changelist" comment="Userstory ID:64685&#10;Test Case ID: 65058, 65058,65057&#10;&#10;UserStory ID: 64686&#10;Test CaseID: 65060,65061,65062,65063,65064,65065, 65066">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Configs/Configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Configs/Configuration.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FailedTestCases/failed.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FailedTestCases/failed.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smoke/CreateAChallenge_BasicChallengeDetails.feature" beforeDir="false" afterPath="$PROJECT_DIR$/smoke/CreateAChallenge_BasicChallengeDetails.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smoke/RWD_BookClub_OpenProgram_CreateProgram.feature" beforeDir="false" afterPath="$PROJECT_DIR$/smoke/RWD_BookClub_OpenProgram_CreateProgram.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/base/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/base/ReusableMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pom/CreateAChallengeSearchTitleResultsTileView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pom/CreateAChallengeSearchTitleResultsTileView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pom/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pom/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pom_RWD/RWD_BookClub_Program_createRPDetailsScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pom_RWD/RWD_BookClub_Program_createRPDetailsScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pom_RWD/RWD_CreateAChallengeBasicChallengeDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pom_RWD/RWD_CreateAChallengeBasicChallengeDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/run/RunnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/run/RunnerClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/run/RunnerClassWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/run/RunnerClassWeb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/RWD_BookClubProgramsCreatorRPDetailsScreen_Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/RWD_BookClubProgramsCreatorRPDetailsScreen_Steps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/RWD_CreateAChallengeBasicChallengeDetails_StepDef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/RWD_CreateAChallengeBasicChallengeDetails_StepDef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-20-07-2021-14-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-20-07-2021-16-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-20-07-2021-16-2.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-20-07-2021-16-3.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-20-07-2021-16-4.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-20-07-2021-16-5.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-20-07-2021-21-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-20-07-2021-21-2.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-20-07-2021-21-3.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-20-07-2021-21-4.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-20-07-2021-22-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-20-07-2021-22-2.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-20-07-2021-22-3.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-20-07-2021-22-4.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-20-07-2021-22-5.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-20-07-2021-22-6.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-20-07-2021-22-7.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-20-07-2021-23-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-20-07-2021-23-2.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-20-08-2021-07-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-21-07-2021-15-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-21-07-2021-19-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-21-07-2021-22-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-21-07-2021-22-2.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-12-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-12-2.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-12-3.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-13-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-13-2.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-13-3.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-13-4.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-13-5.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-14-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-14-2.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-14-3.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-14-4.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-14-5.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-14-6.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-14-7.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-15-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-15-2.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-15-3.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-16-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-16-2.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-16-3.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-16-4.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-16-5.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-17-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-17-2.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-22-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-22-2.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-23-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-23-2.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-22-07-2021-23-3.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-23-07-2021-11-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-23-07-2021-11-2.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-23-07-2021-12-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-23-07-2021-12-2.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-23-07-2021-14-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-23-07-2021-20-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-25-08-2021-14-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-26-07-2021-10-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-26-07-2021-10-2.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-26-07-2021-10-3.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/Previous/debug-backup-26-07-2021-10-4.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/BrowserStackIOS/EnvSelection/SchoolSelection.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/BrowserStackIOS/EnvSelection/SchoolSelection2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/BrowserStackIOS/Login/Login1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/Web Features/Login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/pom_WEB/Dashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pom_WEB/DashBoardPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/LoginClassWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/LoginClassWeb.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +108,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1kYT69ODrz0HNSKTrac2RxgdHWQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,6 +118,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/stepdefinition" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -66,19 +132,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.RunnerClassWeb">
-    <configuration name="TestReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stepdefinition.TestReference" />
-      <module name="Axis360AutomationQA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stepdefinitionWeb.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Feature: CreateaChallenge _AddTitles" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="4" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/Smoke/CreateaChallenge _AddTitles.feature" />
@@ -148,13 +201,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Login.uiVerification" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Axis360AutomationQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.Login" />
+      <option name="METHOD_NAME" value="uiVerification" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.RunnerClassWeb" />
+        <item itemvalue="TestNG.Login.uiVerification" />
         <item itemvalue="JUnit.RunnerClass" />
         <item itemvalue="Cucumber Java.Scenario: RWD_Desktop_To Verify if unique name is given to the challenge" />
         <item itemvalue="Cucumber Java.Feature: CreateaChallenge _AddTitles" />
-        <item itemvalue="Application.TestReference" />
       </list>
     </recent_temporary>
   </component>
